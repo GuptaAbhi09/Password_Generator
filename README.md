@@ -31,14 +31,6 @@ A simple and responsive Password Generator built using **React** and **Tailwind 
 
 ---
 
-## 📷 Screenshot
-
-![App Screenshot](./src/assets/Screenshot%202025-08-06%20153834.png)
-
-> ⚠️ Make sure this image path is correct and exists in your repo. Otherwise GitHub won’t display it.
-
----
-
 ## 📦 Installation
 
 ### 1. Clone the repository
